@@ -1,0 +1,2125 @@
+Welcome to 100 Days of Code Guys.
+In 100 Days of Code, we are going to learn Python programming from zero to job ready.
+And if you have given 100 days to yourself,
+dedicated 100 days,
+then I will tell you in the bite size lesson.
+Python programming,
+we are going to learn it from zero to advance.
+Starting, you will find out how easy it is to play children's Python
+and after that,
+we will upload videos like this and we will go to day 100
+and will raise the bar like anything.
+We are working on complex projects.
+We are working on the things that are used in the industry.guido guido guido
+So, we are going to enjoy a lot of excitement.
+Python is a dynamically typed object-oriented programming language
+which was built in 1991 in guido guido guido guido guido 1.
+guido guido guido guido 1 was built in 1991 in Monty Python.
+It is a show that is being seen in the TV show.
+It was working on this language and they thought
+why not I give Python to them and then it was named Python.
+In this course, we will practice a lot with the theory of theory.
+We will practice a lot with many exercises and quizzes.
+And you are going to be able to do a lot of challenges for people.
+So, I am going to practice in my computer battle.
+And you will be able to practice a lot with Python and Python.
+So, now, please like this video and subscribe to the notifications.
+So that you don't miss any day.
+And you will be able to get notifications every day.
+Because there is a lot of work to do in YouTube.
+So, you will get 100 days of code challenge.
+Now, you will be able to get 100 days of code challenge in the comment section.
+Let's get started.
+So, I am here in Google Chrome browser.
+And I will tell you how to install Python from download and install it.
+So, as soon as you write Python, you will be in Python.org.
+And here, you will get the latest download of Python on your platform.
+As you can see, I am in Mac OS.
+So, for Mac OS, Python 3.11 is delayed.
+So, I will download it.
+You will be able to download all the time.
+You will be able to download your own ID, VS code or anything.
+You will be able to use it in your computer.
+But I will use the template.
+And you can use the template.
+It is a collaborative browser based ID.
+I am using it.
+Because I feel it is very easy to use.
+And with it, you will be able to make the code very easy for me.
+So, here, I will sign my Google account.
+And then, I will direct the screen on the screen.
+As you can see, all my Rapples have come here.
+Basically, you can write a code online.
+If you don't have a computer fast, then you can see it.
+Compute wise means that your computer lacks a lot.
+So, you only need a browser tap.
+And you will be able to follow me.
+And because I will use the template.
+You will be able to follow me easily.
+So, here, I will go on my Rapples.
+I have already made some Rapples.
+And I will scroll down and go to Python 0 to JobReady folder.
+And this is our day 1 Rapples.
+So, here, you can see,
+that in my video, you will be able to see the floating paint here.
+And we will be able to keep our content here.
+So, the console, I will keep it here.
+And with that, I will show you the code.
+I will close it.
+I will write the code here.
+And here, the output of this code is going to come out.
+So, I will make a new file soon.
+So, I will click here.
+And I will open the main.py.
+And I want to open the main.py here.
+So, you can see how easy it is to use.
+Here, we will be able to keep the tutorial.
+Here, we will be able to keep the code.
+Here, we will be able to keep the output.
+And here, we will be able to keep our video.
+You can watch it.
+Now, here, I have put a demo video here.
+You can watch our day video here.
+If you think how I have done it,
+I will give you a link in the description.
+You will know how to do this.
+There is no teacher in this case.
+And now, we will talk about Python quickly.
+But, first of all, I want to talk about programming.
+So, as you can see, programming is a way for us to tell computers what to do.
+Computers want to tell us what to do.
+And we do programming.
+If you have a calculator in your home,
+then the calculator has been programmed.
+And we can tell you the truth.
+How much is 5 plus 9?
+Now, 5 plus 9 is 14.
+I know that.
+So, why I am using a calculator?
+But how about 2, 3, 4, 5, 3, 4, 5, 3, 4, 5, 4, 5, 6?
+You can calculate it.
+But, you can't calculate it.
+So, in this way, a correct communication
+is very important to the computer.
+We use programming.
+In this way, I and you are talking in Hindi.
+You will talk in English with your friends.
+You will talk in Spanish.
+You will talk in any other language.
+We use programming languages to talk to the computer.
+Python, C, C++, Java.
+And we have a lot of programming languages in the market.
+But, these are the codes.
+Python is dedicated to us.
+And that is why Python is very easy.
+Python is my easiest to learn programming language.
+Because when you learn Python,
+and then you start doing things,
+you enjoy a different level.
+What is Python dynamically typed?
+Journal purpose programming language
+which supports object oriented paradigm
+and supports functional approach.
+But, you do not know what it is.
+So, in this course, we are going to learn.
+Now, it is interpreted.
+It is a high-level programming language.
+And, in this video, we started working in 1989.
+Many people asked
+if Python was developed.
+It was not a single day.
+In 1989, we created a period of years.
+We created it.
+In 1991, we got to see it.
+In 1992, we got to see it too.
+In 1989, we got to see it too.
+But, it is true that in 1989,
+we created a period of years.
+What are the features of Python?
+The first thing I will tell you.
+The simplest, simplest programming language.
+This is the biggest feature of Python.
+And, you can do anything after that.
+The platform is independent.
+The platform is independent.
+And, this means that if you write code in Windows,
+you can also go to Linux.
+And, if you write code in Mac,
+you can also go to Windows.
+You can also go to KCV platform.
+I am writing code in my browser.
+I do not mean Mac.
+Because, I am using the app platform.
+But, if I write code in Mac,
+you can run it anywhere.
+Because, I am using the app platform.
+Just write code in Mac.
+If you want to go into Mac,
+just try using Python.
+Because, if you want to go,
+you can do it for Linux.
+It indicates that you going to use Python in Mac.
+That it's very slow.
+But, if, if, you go into Mac
+you can use Python.
+Python is very slow.
+Python provides very big libraries support.
+Someone has made something in a year and you will get to use it in a minute.
+There are a lot of big things.
+I will talk to you about the learning point of view.
+I will talk to you about the error point of view.
+Maybe the error you are using today is 10 years ago.
+And he has removed it.
+And the staff has put it on the website.
+It will be very easy for you guys.
+It will be very easy for you guys.
+It will be a solution to that problem.
+It is a very large library.
+It provides support.
+If you want to integrate with other programming languages,
+you can link it very well.
+After that, I have written some applications for you.
+You can also work on data science.
+You can work on machine learning.
+You can make web applications.
+You can make a lot of complicated applications.
+And to increase your business,
+you can do a lot of complex mathematical operations with Python.
+And I am using the app.
+The code is very easy to share.
+You can also install Python in local.
+It is very easy.
+It is simple.
+Why not on any platform?
+You can install it in any game.
+And if you are in Mac,
+you can see how simple installation is.
+But if you are in Windows,
+you can install Python.
+If you are installing a computer,
+you can check the path variable at Python 3.
+The option to path is to check the path.
+If you do not check it,
+you may not be able to use Python as a terminal.
+If I open my terminal,
+I will write Python in Windows.
+You can see that Python is not found.
+We need to solve this problem.
+If you are in Linux or Mac,
+you will see the error.
+If you are in Python 3,
+you will see the Rappl.
+You can use Python as a calculator.
+You can use commands like this.
+If you do not know what is the print statement.
+We are going to read it.
+We are going to read it over the period of days.
+But I want to digest slowly and slowly.
+If you want to get out of the Rappl,
+you can exit from the redevaluate print loop.
+But I am going to tell you what to do.
+I am going to use the Rappl.
+In the Rappl,
+we use the Rappl.
+The name of the Rappl is here.
+The redevaluate print loop is called Python.
+There are many programming languages.
+If I write hello word,
+and click on the run,
+you can easily run it.
+I want to see its output.
+And the output is here.
+Hello word.
+If I print 7 or 5,
+I will run it.
+I will find it.
+Basically I am writing code here.
+But the code is executing.
+I want to see the Rappl.
+If my computer is slow,
+I can run Python very well.
+And I can make new files here.
+I can make new files here.
+I can read text here.
+I can watch this video.
+I can read it.
+If I don't want to watch this video,
+I am going to practice it.
+I will do it here.
+I will do it here.
+Please check it out.
+I will do it.
+I will request you.
+I will make the playlist of Python.
+I will make 100 days of code playlist.
+Like the video, subscribe the channel.
+So that you guys don't miss any day.
+The journey of 100 days of code.
+I don't want you guys to miss any day.
+I want you guys to practice Python.
+and save it from them.
+Next day, I will meet you guys,
+we will talk about good things and
+our dedicated date will be there.
+There is something very interesting
+on something.
+Wait for the date and we will meet
+after that.
+Thank you so much guys for watching this video
+and I will see you next time.
+See you next time.
+Today in this video we are going to know that audio, video and media elements are used in the Kishnasa system.
+We have seen in our very first video that we can embed videos in the Kishnasa.
+Today I will tell you how Kishnasa has auto-played the video.
+How can we control the mutated video and how you can enable and disable the control of the video.
+Along with that, we will also see about the Kishnasa in the video that you can see in the video.
+So, do like this video and make this video as I have used examples for video tags.
+Let's go to the video screen and let's roll the intro.
+Friends, this time I have made a video called Folder and I will not waste time with the open with code of Shift right click.
+In fact, I will make an indexed stream.
+Today's video is video.
+How to play video?
+In a HTML file, how to play video?
+How to play audio?
+How to play video?
+So, to add video, I will copy the video that is our video tag.
+It is called a SRC attribute.
+And there are some other attributes that I will show you in the video.
+But first of all, I want to tell you that the video is also written here.
+So, if you have video.mp4, you will play with it.
+I have video.mp4.
+So, let's see here and I have put control over here.
+And I will click here and preview it.
+And you can see here that this video is here.
+Now, there is a lot of video.
+So, what can I do? I can use it as a width.
+So, I can say here, width is equal to 555 pixels.
+And as soon as I do 555 pixels.
+In fact, I need to click PX.
+I will only do 555.
+I don't need to click PX in the image.
+Here, we don't need to click PX.
+So, as I do 555 with width is equal to 555.
+And in fact, I do this.
+I do 555 with height is equal to 555.
+So, I can do more.
+In fact, I do more.
+I do 255 with width.
+And you can see, I have come here.
+Now, I will play with it.
+Because I can play with it as I have control over here.
+What can I do?
+I have a good role in this.
+What is my name?
+What is my name?
+What is your name?
+Where did you go to?
+I went to U.S. and I went to U.S. and I went to U.S.
+What is your name?
+So, what can I do?
+So, what can I do in this way?
+Now, here, there are some attributes.
+So, I have to use a video deck.
+You should have a video.
+The video that you have given to you.
+If you have control over it, you will have control over it.
+You can download it.
+You can screen it.
+You can mute it.
+You can pitch it and pitch it.
+This is automatically presented to your browser.
+But I will tell you about some attributes.
+The first attribute is SRC.
+So, you must know this.
+Put the video down here.
+The name of the video file is SRC.
+This video file can also come from the external URL.
+So, you know, if I have downloaded some more videos on Amazon S3.
+I can also add a URL here.
+I mean, it is not necessary.
+Your computer is in the file.
+You can also be on the server.
+You can also come from the third party.
+Now, what controls do you do?
+Ads video controls like play, pause and volume.
+As we have seen here.
+In this video, you will see that you are getting control over it.
+Now, what is this thing?
+It looks automatically.
+What will be the control led?
+What will happen in your video?
+Then, what will you do in auto play?
+You will play automatically like pitch load.
+Okay?
+So, if I put it here in auto play,
+I will put it here in auto play.
+Okay?
+What is happening in auto play?
+What is happening in auto play?
+What is happening in auto play?
+Okay?
+So, you can see here that auto play is played here.
+So, I will play auto play from here.
+And the next thing that is our attribute is loop.
+That is, once our video is played,
+then it will be loop.
+As I will show you.
+You can see it in auto play.
+You can see it in auto play.
+So, this is the second start.
+Once I have finished this,
+this is the second start.
+So, this is loop.
+It works in some way.
+The next attribute is mutate.
+Mutate is mutated.
+Mutate is mutated.
+So, if I write here mutate.
+Sometimes, we want the video mutate.
+In fact, when I add videos here,
+I will add code with read.com.
+And I will demonstrate something.
+I will download the VSCode.
+I will use mutate attribute.
+I don't want that when I have recorded a video
+if there is a background noise,
+they will listen to you.
+For example, I want to show you this element.
+So, I will highlight this video
+by scrolling like this.
+So, I want audio.
+So, I will mutate it.
+So, you can use mutate attribute in your websites.
+Postar.
+Postar is very important.
+So, if I have a image here,
+download.jpg.
+Okay?
+If I write here,
+postar is equal to
+and I write download.jpg.
+So, you will see something like this.
+Okay?
+This way, I will play postar.
+So, the video will be played.
+So, this is like thumbnail.
+Okay?
+The thumbnail of YouTube video is like this.
+Postar attribute.
+So, all these attributes
+you can use.
+You know that
+you specify the dimension of the video
+so that you can see the dimension of the video.
+So, I hope that you will understand this.
+Now,
+the thing I want to tell you
+after this is audio.
+So, this is for all the attributes of your video.
+I want to show you a website
+which I will also give you
+in the end of this video.
+Listen to a quick quiz.
+I will put it in the internet.
+I will forget it.
+I will give it to you.
+This is a lot of fun to do.
+Everyone, please do it.
+But, first of all,
+you write like audio.
+I will put it in SRC.
+I will put it in SRC.
+I will put it in SRC.
+Now, let me reload it.
+And here,
+the audio is not here.
+I will look at the strange.
+There is no problem.
+SRC is equal to mini.
+I have to check the controls.
+So, if I write it from the controls,
+I will not see the audio.
+Now, I have come to the audio.
+I can see the controls.
+I can set the volume.
+I will play the audio.
+Sachin, what is Sachin?
+I will put it in the audio.
+I will mute it.
+I can do it.
+I will put it in the audio.
+Okay.
+I have not seen it yet.
+This is Sachin and MP3 audio.
+Now, what will we do?
+We will see the attributes of this audio.
+You will know that
+the source video is filed.
+After that, you will know the controls.
+Keep play, pause the volume.
+I will play the audio.
+I will play it automatically.
+What is Sachin?
+Hal軯 brook
+They used to play then to play musical violators.
+Next is the attributes.
+What will the loop?
+I have to loop it after repeating the attributes.
+I have sorted and exposed the solutions and looped them.
+Sachin what is Sachin?
+Delete the subtitles.
+What is Sachin?
+They asked me to repeat it.
+I have been to search again.
+Has since deleted the subtitles.
+I have admitted it.
+and then again, again and again.
+What is the truth?
+Okay, again, again.
+Because this MP3 will play again and again.
+So, in some cases, when you want MP3 to repeat this,
+then if you want your MP3 to repeat, you can use it.
+And after that, what will mutate the audio?
+And definitely you don't want your body to fold up your audio mute
+to most of the cases.
+But we sometimes want the audio muted and we can call it user
+by listening to it and mutating it.
+What is it?
+When do we do this?
+The multiple audio users.
+You want to show five audio users.
+You can mute them.
+The one who is the user, you can play and mute it.
+Okay, so, you can control your hand.
+If you want, you can use this thing.
+Okay.
+This is the whole thing.
+So, I hope that you have come to this moment.
+You have enjoyed it.
+Now, you will have to upload a preload.
+The most confusing attribute.
+That's why I explained it in the code with the other.
+And the preload attribute is the value of this.
+The first value can be nunt.
+This is the default value.
+It indicates that the browser should not preload the audio at all.
+Okay.
+Before you start, if you want to fetch the browser data,
+then you will use the preload attribute.
+Otherwise, you won't use the preload attribute.
+Preload is equal to nunt.
+The default value is the preload is equal to metadata.
+So, the metadata means that the browser is not only a metadata.
+The information about the audio file will be preloaded.
+It will be preloaded from the beginning.
+And what should be done by auto?
+That the browser will preload the entire audio.
+Okay.
+So, preload is equal to auto.
+If I do this, it will be downloaded.
+And automatically it will be loaded.
+So that whenever you play the user,
+then the audio will be saved.
+Okay.
+So, the preload attribute is equal to this.
+And there are many questions in the interviews.
+The preload attribute.
+So, you should know what the preload attribute is.
+Before we start, I would like you to share this playlist with your friends.
+I am seeing that you are getting a lot of different kinds of videos.
+You can share it with your friends.
+You can like this video.
+And with that, just like you are doing this repository,
+you can also start it.
+Okay.
+Your star, your likes will help you a lot.
+So, I would like you to share it with your friends.
+So, this was about audio and video tags.
+I told you all the attributes.
+And you should definitely use all the images I give you,
+so that you can try out these things.
+Now, many people asked me,
+what can we use to replicate?
+Look, I have not used it in this course.
+But, Replete.com is an amazing website.
+If you want to use it in your phone,
+if you want to use HTML,
+if you want to use it in your phone,
+and also for iOS, Android,
+then you can try it out.
+Many people have asked me,
+how can I record it in my phone?
+Replete.
+But, what I want to know is,
+the most of the people who want to use it
+prefer it.
+So, I have made videos in the VS programming.
+But, personally, I use the template.
+There are also videos in the template.
+The next topic is SVG.
+It is related to media.
+What is SVG?
+SVG is a format.
+You can create the image.
+It is a very high graphics.
+It is a vector image.
+So, you will copy it.
+Basically, you can make this circle.
+So, SVG is used in the same way.
+It is used in the same way.
+If I add SVG here, then SVG should be here.
+So, this circle and SVG should be here.
+Video, audio, SVG.
+These are the online elements.
+That is why we are looking at it in the line.
+Now, we have seen here.
+Now, what is here?
+You can save SVG files from different types.
+You can save SVG files from different types.
+So, let me write here,
+that I amg.svg and SVG content is saved in SVG.
+So, if I write this in IMG,
+and write this in IMG.svg,
+then you can see here,
+that I did not get to see this.
+If I write here,
+and write my SVG image,
+then you can see,
+that my SVG is here.
+But SVG did not get to see me.
+So, what happened?
+So, what happened?
+Because SVG is in SVG file in browser.
+And SVG file,
+if you want to see it in browser,
+then you will have a declaration.
+I will show you.
+So, I have written here,
+SVG file not showing.
+So, this is the stack of different kinds of answers,
+which you will have to tell.
+So, you will have to write this.
+I will show you.
+XML,
+something like this.
+You will have to add this.
+Name space declaration.
+So, this SVG,
+you will have to add this.
+And now, you can see here,
+this SVG has seen.
+So, this thing is very important.
+And many people,
+whenever you make websites in the future,
+you will not be able to make your own.
+So, in this problem,
+I will make sure,
+I will make sure.
+So, I am telling you.
+The problem you faced in the past,
+you did not have a problem.
+I have also told you that
+it is going to be a solution.
+The next topic is iPhones.
+iPhones are also very simple,
+that you can embed a second website
+from iPhones to your own website.
+So, if I want to embed this website,
+then I can use it in this way.
+You can see,
+I will take this,
+and I will copy this URL.
+And I will paste it here.
+And you can see here,
+this website has been embedded here.
+From iPhones,
+you will definitely want to embed this big iPhone.
+But, if you want to embed this,
+then you can embed it in this way.
+I will use it to increase the height.
+So, the width is equal to width.
+I will do the width is equal to 122.
+I will do the height is equal to 444.
+Okay.
+Let me know.
+So, this is something like this.
+Okay.
+Now, definitely, this SVG was coming in this way.
+So, this is what happened in this line.
+But, I will do the width a little bigger.
+Let me do the width.
+322.
+Okay.
+So, you can see,
+this whole thing will be embedded here in my website.
+You can see,
+you can embed this website.
+You can use one more of its iPhones' YouTube videos.
+If you want to share the YouTube videos
+and click on embed,
+then you can give the iPhone a code.
+And you can start from here,
+if you want to start at a particular time,
+then you can also do it here.
+At this point,
+if you want to share it,
+you can come here at that time.
+I will show you.
+I want you to start from here.
+I mean, start from here.
+So, I will do it here.
+I will click on share.
+I will click on embed after clicking on share.
+I will click on start at 1219.
+I will copy it or not.
+And I will put it in my code.
+I will comment in this iPhone.
+And I will put it in the bottom of the iPhone.
+Okay.
+I will drop it.
+So that you can see the code size.
+So, now, what I will do?
+After I paste it,
+I will show you the document.
+Look, this video is embedded here.
+Okay.
+So, I hope that you will understand something.
+And,
+the media HTML is not only so much.
+I am pretty much, okay.
+For every topic,
+I will show you a lot of things to see.
+But, pretty much,
+that's all about media HTML.
+Audio, video,
+media is not so much.
+This is what you will use in 95% of the times.
+Okay.
+Now, I will give you a quick quiz.
+And your quick quiz is
+create a website
+which shows
+videos of different categories.
+Okay.
+And,
+you can use
+YouTube videos in an iPhone.
+Using YouTube's embedding feature.
+Okay.
+So, what do you have to do?
+You have to make
+a website
+in which you will get a lot of content.
+Now, you will use
+video audio tags
+and use YouTube's
+share feature.
+In this way,
+I have embedded this YouTube video here.
+You can also embed it here.
+And,
+you can make a very big website
+and show it to me.
+You can give me a comment
+if you want.
+And,
+if you want,
+you can explain me
+a code as well.
+But,
+you need to attempt this quiz.
+And, in the comment section,
+you need to write a sigma batch.
+Access this playlist.
+Like the video.
+Write a sigma batch.
+And,
+you need to write a sigma batch.
+Thank you so much for watching this video.
+And,
+I will see you
+next time.
+Today in this video, we are going to talk about core web vitals and why core web vitals are needed.
+Keep this video like, do like, and keep the high energy.
+The thing is that your website is in the iphone, your android phone, on the surface, on the phone,
+all the devices in it.
+Because we have to give a good experience to all the overall users through our website.
+In this video, we are going to know that there is a hidden tool in the Chrome which is called lighthouse
+and how you can use it to enhance your website.
+So, let us know in the comments section below.
+Let us know in the comments section below.
+Let us roll the intro.
+So guys, I have already made a new folder here.
+Its name is video6.
+Video6.
+And here is video6.
+I will open it on VSCode.
+And the thing that I am going to tell you today is that it is very important to you.
+First of all, I want to tell you what is SEO.
+It is a SEO stands for search engine optimization.
+If you see any website, then it is called SEO.
+Amazon.in's example.
+Many Amazon.in opened.
+Amazon.in's chart that soon the website will load.
+So that the product can come in search.
+Google's search engine has a good response to Google that it shows good users.
+So, Google only wants to show those pages that are fast.
+Information is very good.
+And with that, there are some things that are good for users.
+For example, there are two pages from the side.
+One page has been told about my dog food.
+The other page has been told about exactly the same dog food.
+But the page 2 is very low.
+If it is very low, then Google will give it more preference.
+With that, there are core web vitals.
+Which is considered by Google.
+To rank those two pages.
+First, content.
+Content is the most important.
+On the page, if you have content, then you can also rank your website without the core web vitals.
+But if you are competing with a such page,
+which has almost similar quality content,
+then you will see your core web vitals.
+And if your core web vitals are true, then you will be given preference.
+So, the core web vitals first comes from your CLS.
+You can see this video here, which I have run web.dev website.
+You can see that someone is coming to your website.
+And the order of canceling here,
+the order of canceling here,
+was visible above.
+And it has shifted the layout.
+And the order is complete, but the user doesn't want the order complete.
+So, he wanted to click on it.
+In this way, the user experience is much worse.
+And as you have seen in this video,
+we should not be less than CLS.
+Now, what is the difference between CLS?
+Cumulative layout shift means that
+there is a lot of shift in the page.
+You can see the page load first.
+This is the first step.
+And after that, when this load was created,
+this part of the kit is shifted.
+The layout shift should not be there.
+If you put the images in the images,
+then the layout shift will not be there.
+The next metric that we are talking about is the LCP.
+And the LCP stands for largest contextual paint.
+This means that if the user is viewing a page,
+then the biggest element.
+For example, the biggest part of this image
+is loaded in so much time.
+That means, the whole page will be loaded
+but the biggest element,
+is loaded in so much time.
+Web.dev or Google means that
+a good LCP score of 2.5 seconds
+should be loaded in 2.5 seconds.
+And after that, the third metric,
+which stands for first input delay.
+First input delay means that
+any user has clicked an input element
+on the button.
+In any way, the input is given on the page.
+In so much time, the input process is there.
+For example, if you clicked a button,
+then the button click browser is processed in so much time.
+And Google and Web.dev means
+that if you click a button,
+then the input process should start.
+So, these are the three core web vitals that are very important.
+For you people, I will tell you that
+these core web vitals are also updated.
+But these three are very important
+and you should know.
+Now, I will show you the light house report
+and what they generate.
+And how they generate these three core web vitals.
+So, I will tell you here.
+If you click right click,
+and you can see this on the right side.
+Then you can click this on the right side.
+Then you can get it from the right side.
+And you can click on it down.
+I prefer it down.
+Because I want to see it from my previous starting point.
+Now, you can see the light house option.
+The light house basically generates a report.
+And you will tell you that
+what can be improved in your HTML page.
+For example, if I want to see in the mobile,
+how the mobile users are seeing my website.
+So, I will click on the mobile.
+Or I will click on the desktop.
+I will click on the desktop.
+I will click on the mobile.
+Then I will generate this report.
+For the light house.
+You can see here that the report is generated.
+Performance, accessibility, best practices,
+SE and PWA are showing everything.
+Now, you can see here that there is something in the red.
+That is, the scope of improvement is in the page.
+Now, you can see here,
+properly size it.
+2.7 seconds.
+Your website can load.
+So, all these suggestions are given to you.
+The light house is given to you.
+And if you incorporate these suggestions,
+the website is very large.
+Load and the user has a good experience.
+Now, you can see here that
+image elements do not have explicit width and height.
+So, you should give the width and height of the image
+and the width and height of the attribute.
+Because we read in the previous video,
+it should be used to use it.
+So that in your browser,
+it will be reserved.
+In HTML, it will be reserved in this browser.
+Otherwise, if we do not set the height and width,
+then what will happen that the browser
+will not know how much space we need to reserve.
+We will shift all the space below.
+So, we do not want our page to shift in loading time.
+If our shift is started,
+if we want to click here,
+then when it will shift from the corner,
+we can click here.
+We want to go to one image here.
+I will click here.
+And the same time,
+this image is loaded and all the space is shifted.
+And instead of clicking here,
+I will click on the image.
+It is called cumulative layout shift.
+This way, the shift does not prefer.
+And it should be less.
+You can see that the space is less.
+It should be less than cumulative layout shift.
+So that our user can get a very good experience.
+So, we get more and more suggestions here.
+And this is for our mobile.
+We can generate desktop report.
+And the desktop report will be generated.
+So, as you can see,
+this has generated a report.
+In performance, 92 marks.
+Accessibility to 100 by 82.
+In best practices, 75 by 75.
+Look here,
+we will talk about the scope of improvements.
+So, this is a hidden tool.
+We should use everything.
+Now, I want to tell you about the meta-tax and meta-description.
+So, what I will do now is
+I will make a new file.
+We will name it index.stml.
+And after making a single file,
+the first element I want to tell you is the title.
+Your title is reflecting your content.
+So, this is a very good SEO practice.
+When you are changing your page,
+you should make the title like this.
+You should reflect your content.
+and on other updates,
+about the title,
+you click on the code and take the index.
+You may add it.
+This is the title.
+And the title as this is used as a youtube product.
+And the title of this material is on Instagram.
+The title of this material is available as a gittane.
+So, at the back the title charts will reflect your content,
+that's why I will rank your website for nice.
+Now, I will now add our content.
+I'll put H1 here, I'll write Harry and after that I'll write a paragraph here and I'll write Lorem 45.
+Now I wrote Lorem 45, I'll unwrap the view.
+45 is also written, this is a very good question.
+I'll write 45, because I have 4 or 5, so I've given it to 4 or 5.
+I'll write 23, because it's also 5.
+It's okay, there's no other reason.
+Now I'll review it quickly.
+I'll do an opening browser here, you can see this document is written here.
+If I leave it like this, it won't be like this.
+I'll write about Harry here and I'll write it in the code, whatever is in my website.
+Okay, and what's the title of the title is, it will reflect here, as you can see.
+So, what will work in this way, that in my website, in Google, there will be a lot of chances to see it.
+I'll also take out the light of this report, and I'll see what scope of improvements are.
+Now, the light of this report will be very big, because there is no such thing that I should improve.
+But when I put it in the images, I'll write suggestions like,
+Hide, also, I'll share another trick with you, which tells you how you can see your website in any mobile.
+If you come to know, then you can click here, or you can click on the computer.
+And after this, if you choose a responsive, you can see how you can see your website in any device.
+You can see your website in response or not here.
+And you can see a specific device, which is called iPhone 12 Pro.
+Your website is called iPhone 12 Pro which you can see on the resolution.
+Now, don't say it's 15, 16, 12 Pro means a big iPhone device,
+it's going to be good, in such a big device, in such a big device,
+how will you see your website, it's going to be simple for you.
+So now you can see how will you see in Surface Pro 7,
+click here, how will you see in Google phones, you can also find it.
+And if you want to take a general view,
+in my website response device, in any type of device,
+in Ipad, how will you see it,
+if you are not here, then you choose your device,
+take the approximate bit, all the bit free devices,
+you should see your website, how will you see it,
+and then I will tell you about this course.
+Now you click here again, then it becomes closed,
+which is the view of the response,
+and as it becomes, you can see your website,
+I will close it, I will come back here,
+now I will tell you about the matter text,
+here I will write a matter, then see here,
+it's a DEC, I will click on the DEC,
+here I can give my page description,
+I know that this is the page,
+this is the page about, this is the page,
+which contains description about Harry.
+Okay, and here whatever page content you write,
+whatever you want, as I show you,
+you click here, what is SEO, okay.
+What is SEO, you have written here,
+this page is not this matter description,
+SEO stands for this and symbol terms,
+Now it is not necessary that a search engine,
+your DEC will pass, it will not do this.
+If it is good, then it will pass,
+then it will keep your DEC here.
+If you have not added the DEC,
+then your content can also be generated by the DEC.
+So this is the responsibility of this search engine,
+what will Bing do, what will Google do,
+I do not know,
+but from our side, our page should be
+to the point,
+if we want to write a blog,
+and we want our organically rank the page.
+So here you can see,
+that I wrote a DEC,
+with a meta keyword first,
+but now the meta keyword,
+is deprecated,
+the meta keyword is not used at all.
+The meta keyword is similar to the code,
+but it is believed that the meta keyword,
+it does not rank in SEO,
+because people do more than that,
+that is, you have written a page about pets,
+and you have written what is SEO,
+in the meta keyword,
+your page will rank like this.
+I will fix this double quotes,
+and then I will fix it.
+So if I put the meta keyword here,
+then it is not necessary that a search engine
+will consider it as a constructor.
+If there are some search engines,
+then they do that,
+that the meta keywords do not agree,
+then we will not see your meta keywords.
+So the meta keyword is not used at all,
+but now it does not work.
+Now your page content is parsed,
+and now the same time is coming out,
+so if you want more,
+your content will be considered,
+your content value will be considered,
+and it will be ranked by you.
+Now, if you want to know exactly
+about the core web vital,
+for example,
+if I inspect right click,
+and I go to the lighthouse,
+and for the desktop lighthouse report,
+then there are some core web vital,
+like LCP comes,
+and then FCP comes,
+first contextual paint.
+Now you can see,
+everything is 100, 100, 100, 100,
+here you can see,
+there is no more content here,
+but here you can see,
+that what you are doing is,
+pages with the web socket cannot enter
+back forward cache,
+there is no web socket,
+because we are using this extension,
+live preview.
+Otherwise, this is exactly,
+the accessibility is 100,
+everything is so,
+it is a very big page,
+okay?
+PWA is a progressive web apps,
+which we will not make,
+but here you can see,
+the first contextual paint,
+largest contextual paint,
+total blocking time,
+cumulative layout shift,
+speed index,
+if you want to know about all these,
+then what is the first contextual paint,
+because the user,
+how much paint is there in the browser?
+So, if you want to see these things,
+then you have to go to the web.dev,
+web.dev,
+a very good website,
+about all these things,
+and you can see here,
+that these things,
+you can learn about these things,
+what are the things,
+PWA,
+you can learn PWA,
+about all these things,
+here,
+there is a very good content here.
+But we will focus on
+the HTML CSS JavaScript and Websites in this code,
+this thing,
+you should have come from which I told you about it.
+If you haven't done the web development series yet,
+then do access to it,
+click on the playlist,
+click on the bookmark,
+click on the star,
+click on the star,
+click on the save,
+now,
+thank you so much guys for watching this video,
+and I will see you next time.
+In the last video, you guys have given me a lot of love.
+It's my pleasure to keep this course free.
+This free course has become a like.
+You know, when I started the web development,
+this quality of the comprehensive course was not the same.
+Free or paid, it was not the same course.
+So I can understand that this course is free.
+For some people, it keeps my mind in mind.
+And trust me, I'll live up to the expectations.
+With that said, I will like this video
+because in this video, we are going to make our first website.
+In this video, I am going to make an iPhone 15 Pro Max Order.
+And how will we see that in the next video?
+For some people, this is your first first website of your life.
+So it will be fun.
+You guys are excited.
+Write in the comment section, I am excited.
+And in the comment section, I am excited.
+I will take all the comments I will give to you.
+In this video, we will learn how to link a HTML website to CSS and JavaScript.
+Along with that, I will give you guys notes, cheat sheet,
+and a lot of resources.
+I will tell you some of the easiest techniques
+that I have learned in the years.
+And I will take 10x of your web development speed literally.
+We will also see in this video
+how to make a VSCode awesome
+that your VSCode screen will look like a killer.
+In this video, I will also tell you
+how to earn money from your web development.
+So let's start with full energy.
+Let's roll the intro.
+All right guys, so we have come to our commuter screen.
+Before we start the video,
+I want you to know that you need to access the playlist.
+Secondly, we are very close to 5 billion subscribers.
+If you haven't subscribed yet, then do try it.
+In today's video, we will tell you about our first website.
+The first thing we will do,
+is to customize your VSCode.
+So this is the folder
+in which we started our web development series.
+Now I want you guys to give this web development series source code
+so I will configure the gate.
+Now you guys have to know the gate, it is not necessary.
+But I will fire the gate hub desktop.
+And I will do it here.
+I will add a new repository.
+I will add it to create a new repository.
+My name is Sigma web dev course.
+And this is my folder.
+So I will select this folder.
+Initialize this repository with grade me.
+And I will write the source code for Sigma web development course.
+I will create a repository.
+To do this, you have to make a repository
+which is called Sigma web dev course.
+First, I will put all the relevant things in here.
+These two files were first relevant.
+So I will name this video one.
+Right leg new folder.
+I will make a video one here.
+And I will move the files to video one folder.
+I am not pushing all the videos on the guide.
+You can use this sample video.
+So whatever source code I will update here.
+And I will keep pushing on the guide.
+How do you push on the guide?
+You guys don't need to learn this.
+But this procedure is very simple.
+Why do you use the guide?
+I want you guys to know that the guide
+is used by web developers.
+They use general coders.
+When they want to collaborate with other people.
+So what will happen is that you will work with many programmers.
+And those programmers will collaborate with your source code.
+And to collaborate like this,
+they will also push some code.
+You will also push some code.
+Maybe you are also creating a file.
+If you are creating another file,
+you will get a GitHub use here.
+And what is GitHub Desktop?
+GitHub Desktop is a utility to use it.
+GitHub and GitHub have the open source,
+but GitHub is Microsoft's own company.
+You can use your repositories
+to help you on web interface.
+I will tell you more about the guide.
+But I am pushing the repository on my own code.
+You will get the link in the link in the description.
+So as soon as I give you the link,
+you will get all the code.
+And I will talk about it.
+I am making this video a course.
+To follow the absolute beginners.
+So I will click on the publish repository.
+This is the code.
+This folder will go to sync with my GitHub account.
+All the code that I am going to upload here,
+will go to my GitHub account.
+And it will go to sync.
+The changes will be there.
+If anyone changes there, I can pull here.
+I can click here.
+I can pull here by fetching.
+I will teach you all this.
+You will get a full video ready guide.
+Don't worry.
+This is why I did it.
+So that I can give you the code.
+I will make a video to name the folder.
+And I will go inside this video to the folder.
+I will click on the shift right click.
+And open with VS code.
+So here is the open with code.
+You will get the option.
+If you have said it, I have installed the VS code.
+If you have done some changes and you have not checked it,
+which I have shown you in the checkbox,
+then you can solve the problem.
+So we will do this.
+We will dismiss the notification.
+I will make a file here.
+I will make an indexed HTML here.
+And that file will also be here.
+So this time, I know everything.
+I know a lot of people here who are saying
+that we already know everything.
+But I am making this code from you.
+All the beginners also follow along.
+So I will make three files here.
+I will make an indexed HTML.
+The second file that I am going to make,
+is styled.css.
+And the third file I am going to make is script.js.
+And this file's name can be something.
+But I just want to keep this file self-explanatory.
+Because if you look at the name,
+what is it doing?
+Indexed.stml.
+HTML file is script.js.
+JavaScript file is styled.css is a style sheet.
+So I have made these three files here.
+I am going to go to indexed.stml and make an exclamation mark.
+And as soon as I make an exclamation mark,
+you can see that this code is here.
+I will click on View Word Rapp so that you can see a code.
+Word Rapps are always on the scroll bar.
+It is going to break.
+I have checked the Word Rapp here.
+And here you can see that this code,
+we will understand it now.
+But now you can understand that this code is HTML code.
+We will use it to make a website.
+Now in the extension of VS Code,
+there is no use to enhance the functionality of the VS Code.
+We use the extension of the VS Code to make it better.
+We use the extension of the VS Code.
+We use the code to make it easier for us.
+So we will use the extension of the concept.
+First, I will add something like this.
+Extensions from which our VS Code is now killer.
+If you have seen your friends, then it will be gone.
+It will be gone.
+Okay, so I will do it quickly.
+VS Code icons.
+Okay.
+The extension of the VS Code is called VS Code.
+I will install it like this.
+By the way, you will find out that
+all the files that you are seeing here have gone to the icon.
+Before the icon was not coming, you will see the video behind it.
+Look at all the icons here to see how you are getting it.
+Okay.
+Thanks for installing VS Code icons.
+I will activate it here.
+And you can see here that this is our icon.
+We will see how it looks.
+When we come to the time, we will make a folder.
+If we make a folder, we will not be able to do it like this.
+So these icons look good.
+We will come to the extension of the Vavas.
+And you can use these themes a lot.
+Some of them are jellyfish themes.
+One is the github theme.
+A lot of themes.
+You can use these themes.
+But I can only put them on time.
+This is the default VS Code theme
+which you see from the VS Code.
+Now if I change my theme,
+then I will see my VS Code in a different way.
+I will show you what I prefer when it comes to theme.
+First of all, I will show you the github theme.
+It looks like this.
+So the github theme is the theme of the github.
+The theme is the github dark.
+The github is light.
+The github is dimmed.
+The github is the color blind.
+I think this one looks better.
+Because in this one, the color is...
+Sorry, this one is not me.
+I will show you the github dark.
+I will show you this one because the colors are the same.
+One more thing I like about the theme is the jellyfish.
+And here the jellyfish theme suits a lot of people.
+If I install it,
+then you can see the VS Code in a different way.
+Jellyfish.
+You can see it in this way.
+After this, there is a lot of popular theme in the material theme.
+And if I use the material theme,
+the material theme,
+and the material theme is the icon,
+the material theme was to be installed.
+If you have installed the icon in the material,
+then you can change your icons.
+Which one is the extension control?
+And here we have installed a lot of extensions.
+I will tell you that you have to delete the extensions.
+Here I show the VS Code material in a different way.
+And if you want, you can use the VS Code icons.
+If I want the theme of the material theme to be the icon,
+then I will simply do this here.
+I will do this here.
+And here, as much as I see,
+the material is the icon.
+And I want to use this one.
+So I will do this.
+Now I can install it.
+And sometimes I do something uninstallable,
+and it is required to be re-loaded.
+So I have to click on re-loaded required.
+And when I re-loaded it,
+then my VS Code will be re-loaded.
+So you can use the VS Code from yourself.
+I have my VS Code icons here.
+I will select the VS Code icon
+so that I can adjust the icons.
+I like this a little bit.
+I like the jellyfish theme a lot.
+Now there is another extension,
+which I will not install it as a pretty art.
+But I want to tell you about it.
+Another extension is the ES7.
+When we will react, you will find out.
+And we will react to this in this course.
+Now for all those asking.
+Sorry for the spoilers,
+but we will react to those in this course.
+So this is the ES7 Plus React Reduce,
+React Native Sniperance extension,
+which you can react to.
+We will use it now,
+which we will react to.
+Now we will not install it.
+But now the most important thing
+is the name of our extension,
+Live Preview.
+This Live Preview is the extension of our extension.
+Because it is a very low extension.
+As much as we are extension,
+you tell me mostly you help people.
+The VS Code is changing the look and feel.
+But I will tell you the extension of this live preview.
+This will be used in actual use.
+Now we will go to our HTML CSS JavaScript files.
+So this is our HTML CSS and JavaScript files.
+This is HTML file.
+This is some code,
+which tells us how to see the website.
+Okay.
+So here I am telling you,
+I need a document in the title.
+I will write it here.
+Harry by Key First Website.
+Harry by Key First Website.
+Key First Website.
+Harry by Key First Website will be false.
+You will write your name in this file.
+Okay.
+What is your Key First Website?
+And here I am writing in the body.
+Hey, this is my first website.
+And all of you in the comment section.
+So the first website is changed.
+All of you write the congratulations.
+Congratulations for my first website.
+And you can congratulate each other.
+Make it in the comment section.
+I also come to comment section.
+And I will give you the link.
+This is my first website.
+Now,
+see how it is.
+Most of the questions are asked.
+So let's see these two things.
+The first live server that we installed,
+live server,
+live preview, sorry.
+The first live server was running a lot.
+But Microsoft released the live preview.
+So the latest joy extension,
+I will recommend it.
+This is also running live server.
+But I am not going to run live server.
+I am going to use the live preview.
+After installing the live preview,
+you can see this icon here.
+But you will see,
+you will click on it.
+Your website will look like this.
+Now you will say,
+I want to see this website here.
+Because my website will look like this.
+You will see it in the browser.
+So if you want to see it in the browser,
+click here.
+Open it in the browser.
+Open it in the browser.
+And I will tell you one more thing.
+Listen to one more thing.
+You can close it like this.
+And you can write it here.
+Harry,
+brother,
+Of course,
+It is good.
+Mano, you have written it.
+I am writing it on my own.
+But
+Yes.
+It is good.
+Okay.
+I have written it here.
+And you have noticed
+here.
+I did not reload this website.
+But after that,
+he has updated this content.
+Which I have written in this code.
+I mean,
+I will write it here.
+Without reloading it,
+It will be updated here.
+Will it be okay?
+Will it be okay?
+It will be okay.
+It will be okay.
+It will be okay.
+Okay.
+And here.
+This is my first website.
+Harry, brother.
+It is good.
+Now I will write it here.
+It is good.
+It is good.
+It is good.
+It is good.
+It is good.
+It is good.
+Okay.
+So here you have seen
+how this extension
+is good.
+If you reload it,
+It will not be okay.
+Because it is reloading.
+So there are two things.
+Sometimes we want
+Our page
+That is our preview here.
+So that you can see the wide
+code.
+Sometimes we want
+Our code to be here.
+Because we want
+We want
+Its live preview.
+So I am also writing something.
+Harry, brother.
+Of course it is good.
+And
+Yes, Sigma,
+Of course it is good.
+I know I write something.
+I can write everything here.
+I can write it here.
+I can write it here.
+I can write it for a long time.
+Anyway I can write it here.
+So I will update it here.
+I can update it here.
+In my old videos
+Have you ever seen
+I used this extension
+This is
+This is
+This is
+This is
+This extension
+I did not know
+What is said now
+Now I can say
+Now I can say
+Now I can say
+Now I can say
+Now I can say
+Now I can say
+Now I can say
+Now I can say
+Now I can say
+The script
+I am
+Even
+I don't make it, I also work, I make websites, and I also earn a lot of money, I make websites.
+Now, all these codes are written in the code, you will get all of them.
+So, in the description of the video, you will never go to any video,
+in the code of any video, you will go to that corresponding video,
+you will get the code, you will not get that tension.
+Now, I will close it, because my preview is here.
+Now, the HTML CSS JavaScript we talked about,
+which we talked so much about in the last video,
+now, I will tell you how to link these three.
+Now, you can see the HTML that you have created here,
+it is very good, you can see the title here,
+here, you can see the first website of the course,
+I know, I will do a sigma web development course,
+so, this will change, sigma, sigma web development course,
+here, sigma web development course,
+and you can see here, that it is updated,
+it will be updated, it will be updated, it will be updated live.
+Now, I want my background to be read,
+okay, like this CSS, I can write here,
+body, and background color, red, okay,
+like this syntax, CSS, I will read CSS,
+and I will read it like this, that it will not be able to say anything,
+tension means, what is written,
+we also understand this CSS, which reads the color of the body, okay,
+and here, you see,
+whether the color of the body will be red or not,
+comment section, I will tell you, I will tell you about the red,
+okay, why not, the beginners will think it will be red,
+it will not be red, it will not be so good,
+this HTML file is also running,
+I do not know about this CSS file,
+what is going on in my home, what is my study,
+I have made the download,
+and I expect, I have made the download,
+and I will expect it,
+I do not eat it with it,
+you can eat it sometimes,
+but I have to go,
+so, I have to link, you have to link,
+you have to go and say,
+you have to read,
+I will eat it with it,
+I am making the download, you want,
+there will be a handshake,
+then how will it be,
+in HTML, you will tell me where your CSS file is,
+there is a link tag,
+and the reason for not using the Notepad,
+you will also find out,
+I will write a link like here,
+I will select the link colon CSS,
+you see, he has done half of my work here,
+he has also written the stylus,
+I have to type in the Notepad manual,
+this is the syntax of HTML,
+I have to write here, but automatically,
+that is, the next one,
+now, the side dot CSS,
+this is my Kismatege,
+this is called style dot CSS,
+it is a file, and here is also the style dot CSS,
+if it is called Harry dot CSS,
+then I write Harry dot CSS here,
+and guess what,
+here, my background is dried,
+now, I want the white of my color,
+then I can write the color text here,
+I can write it here,
+color white,
+now, nothing will work here,
+I have written the color white,
+then, look, this white,
+the valid CSS syntax will work,
+and I will talk about it later in this course,
+so, this is our run,
+the CSS,
+now, how will the JavaScript work?
+If I write here, alert,
+and I will write here,
+welcome to sigma,
+web development course,
+I mean, I will write here, welcome to sigma,
+web development course,
+so, what will be the alert here?
+Why didn't I come here?
+I will tell you that this syntax,
+absolutely correct,
+there is no problem in the syntax,
+and I will read the JavaScript a lot,
+so, don't worry, what I have written,
+this is the code of JavaScript,
+which, on the screen,
+welcome to sigma, web development course,
+it will be very simple to flash,
+why didn't I do the flash,
+did my computer fail?
+No, my computer is right,
+I want to tell you,
+I will have to include the JavaScript,
+and let's include the JavaScript from the body,
+okay,
+now, I will include the JavaScript,
+I will write in SRC,
+script.js,
+how did I write this?
+First, I wrote here, script,
+okay,
+first, I wrote here, script,
+image abbreviation,
+image, what is it?
+image is a plugin,
+which is built in VS code,
+you will do it like this,
+you will complete the autocomplete,
+I will write the script here,
+and I will do the SRC here,
+so,
+that means, I want to give a source file,
+you can also type it manually,
+but here,
+we are getting suggestions,
+you are writing code,
+you are making a lot of mistakes,
+you are making a good developer,
+and you are making a lot of mistakes,
+with which, you can't find a shortcut,
+and as a developer,
+you can create a soul,
+SRC is equal to,
+script.js,
+you can see here,
+I have included,
+now, I will come here,
+so, you can see,
+here,
+welcome to sigma, web development course,
+I will write in all the comments,
+I have created a soul,
+write it,
+because I know your soul,
+this box,
+JavaScript has gone,
+CSS has gone,
+JavaScript has gone,
+now your soul has gone,
+I will reload it,
+I will come back again,
+okay,
+I will visit this website,
+I will be able to see an alert,
+it is called alert,
+JavaScript,
+I will tell you what is the next step,
+JavaScript,
+don't say,
+you have alert,
+you want to start at a weird start,
+I will finish the HTML,
+then JavaScript,
+don't take your global attention,
+and with this,
+I am telling you,
+whatever best practices,
+I am telling you,
+I am telling you,
+keep it in mind,
+because whatever I am telling you,
+it is coming from my experience,
+it is coming from the time experience,
+and definitely,
+you will help,
+just like I said,
+you can use it,
+nothing wrong in that,
+like,
+preview,
+use it,
+it is set from Microsoft,
+awesome,
+now I want you to write in all the comments,
+sigma batch OP,
+everyone is enjoying,
+in the course,
+put sigma batch OP in the comments,
+it will be fun,
+see,
+this batch is a free course,
+what happens,
+it is a batch,
+sigma course OP,
+it will be fun,
+now,
+in the last video,
+how to do this mouse wheel,
+you just have to go to the settings,
+you have to write a mouse wheel,
+and here,
+you check any editor mouse wheel zoom,
+then you press control,
+from mouse wheel,
+I have pressed control,
+I will do like this,
+like this,
+like this,
+I will zoom in,
+and if I press right,
+and press command,
+then I can also toggle screen cast mode,
+whatever I will write here,
+I will get you to see,
+I didn't toggle screen cast mode in this video,
+because,
+I already know what type I am typing,
+like this,
+I can toggle screen cast mode,
+so that it can turn on,
+so that you can see,
+everything that I am doing,
+In the last video,
+we talked about websites,
+and the thing that we did,
+you all understand it very well,
+I will take an example of iPhone 15 Pro Max,
+and I will show you an order,
+how to get a client server interaction,
+whenever,
+a user,
+a iPhone orders,
+ok, so you will get interesting,
+I will show you here,
+So guys here website how to do this to understand apple.com
+Apple.com is the same website
+Because from their server data has come here
+All the HTML files are there, I will click on pre-order
+And then I will simply record it
+I am not saying that I will come in September
+I will select 15 pro
+Let's take some black Titanium
+What is going on?
+Let's take two Webdgv, no trading
+After that you can see here
+What they did with their server
+Let's go, let's go, let's go
+So there is a whole thing
+The HTML CSS JavaScript
+You can see it
+I have uploaded a view on it
+So this is how I am showing it
+And this is our original website
+That is what we were working on
+Now I will check it quickly
+I will continue as a guest
+Now I will show you a fun thing
+As soon as I click on Instruct
+And I will click on Network
+You will see two and a few communication
+With Apple's servers
+Which means
+As I am going to action here
+I am going to go to JavaScript
+Communicate this server
+And then
+Appropriate action server
+And I am going to send data
+I would like to be delivered
+Continuous shipping address
+I will name it
+I will deliver it on October 19th
+I will tell you in the update
+I will keep it in the update
+Yes, everything is fine
+Terms and conditions
+I feel like reading it
+Place your order
+I have made it
+Place your order
+I will like the video
+Because I will also order iPhones for development
+This is what we have
+I will confirm the OTP
+OTP and my purchase
+Here it is
+It is done
+The thing is
+I have requested something from Apple.com
+I told you
+Give me an iPhone 15 Pro Max
+Apple.com
+Take it
+So this is how the communication
+Between the server and the client
+This JavaScript is through
+To load the page
+As you can see
+I have clicked on the iPhone
+After that I have clicked on different things
+So all the things
+How are they?
+They are JavaScript
+The styling is
+How are they?
+CSS
+And it is written
+It is HTML
+I hope you will remember this example
+And if you will call
+I will definitely show you
+Many people will say
+Farsi
+Farsi
+I will show you this phone
+I will not do this in front of you
+So this is how your websites work
+How do you communicate with the client server?
+I hope you have understood this example
+Tell me in the comment section
+If I want to give away this iPhone
+So what is the best thing?
+I mean
+Do you know
+I have done a genuine giveaway
+And I have done a giveaway
+Tell me in the comment section
+I don't know about this
+So you know
+I want to tell you
+Now I want to tell you
+Where do you get notes and cheatsheets?
+If you go to the code with any
+Dotcom slash notes
+Then you will see the notes
+And you can download the notes here
+And you will see the cheats
+For example
+I want to access the HTML cheatsheets
+So I can access the cheatsheets here
+Or from all the elements here
+But now in this course
+I will tell you about all the elements
+And with that
+You want to download the notes
+And download my handed
+So from here
+You can download PDF notes here
+Because I have written the handwritten
+You will enjoy reading
+In this course
+I will tell you everything in this course
+But you will enjoy the notes
+You will also enjoy the learning experience
+That you will also enjoy reading
+Now I want you to
+Do an initial review of this course
+In this first video
+I want you to go to this video
+And go to this video
+In the comments section
+I want you to post
+In the comments section
+Write in the first video
+And give 5 to me stars
+I will tell you about the initial review
+I know the codes
+But what quality
+And all these things
+You are commenting in the comments
+So if you do this work
+You will feel better from your heart
+Go to the first video
+And rate this course
+Now we will talk about
+How to earn money after doing this course
+First of all
+It is very simple to earn money from the web development
+Just balance it
+Freelance is a web developer
+You can make websites
+That are all websites
+Which you can make
+And make them
+You will get a lot of good money
+A lot of people
+Integrate the API
+And integrate the API
+And earn a lot of good money
+A lot of people say
+Chat GBD is here
+Chat GBD is here
+Then nothing will happen
+All chat GBD is here
+But this is not true
+Chat GBD is for you
+Make a website
+And make it more easy for me
+And when you use Chat GBD
+Then you become a Geega Chat developer
+So chat GBD is more used
+And you can save your time
+In fact, I am telling you
+When Chat GBD is here
+I am going to deliver more to my freelancing clients
+As many websites
+I had to make it from the beginning
+I am going to make more to my chat GBD
+And I am not doing that work
+I am doing it
+I am finally paying the package
+And I don't have to answer it
+I have used chat GBD
+I have not done it
+I have not done it
+You can easily deliver
+You can use Chat GBD
+You can't do anything
+You can use Chat GBD
+You can use Chat GBD
+You can use Chat GBD
+And make websites
+And deliver freelancing lines
+Where can you get freelancing lines
+You can go on a Fiverr website
+Yes, I know
+It is difficult to get work on Fiverr
+You can go on a Fiverr
+Fiverr takes into account your Fiverr
+Now if you will go here
+You go with the Fiverr
+If I can match you with Fiverr
+And I can show you images
+So, buy a Vieir request
+You can send these to your followers
+And I have changed these works
+for this work
+You will be able to bring your work
+You will get a Review of a six years
+In that case you will earn more
+The reason it is your Fiverr
+is that no one has pantry
+In that case, no people have pack
+You will not get easily earning
+But if you agree that 5 people have ordered 5 people and 5 people have ordered 5 people, then you get the same thing from there.
+Because the buyers want their credibility to be good.
+So that they also have work to do.
+And they also want their money to be wasted.
+So you can try the Fiber Upwork and Freelancing websites.
+But before trying, you have to make good websites.
+And in today's topic, you will need to use cutting-edge technologies.
+Suppose you want to integrate the Charge GPT API.
+This way, you will get the work done.
+No one will tell you that I will design it.
+Let me make a simple new app for you.
+I am telling you, most of the clients do not do all this work.
+They do Charge GPT today.
+You can make complex websites better.
+Then you can get a job as a web developer.
+If you get a job as a web developer,
+if you get a good web developer, you will get a job.
+This job is less.
+In fact, senior developers' demand is increasing.
+And their package is increasing.
+People are earning more money than us.
+If you are a basic developer, then you will get a Charge GPT.
+After this, you can sell your services.
+You can make an Instagram account.
+You can upload images in your account.
+And you can take some traction.
+You can talk about websites.
+You can approach clients.
+I am not saying that you should follow many followers.
+You can start following them.
+After this, you can give 1-1 help to people.
+You can also get clients from Instagram and social media.
+If you want to learn anything,
+I will tell you in my DM.
+And you can get a client easily.
+Trust me if you get a job.
+You can sell a code.
+I have already uploaded this code.
+But these are the codes you are going to get paid.
+It is true.
+And when you get this code,
+then definitely, for all of these codes,
+you need to make a web development.
+Web development is a lot of things.
+For example, how to use a Charge GPT?
+If you want to make a web site,
+then it will be easy to sell a code.
+We have a huge amount of code.
+Many people have asked me to buy this code.
+I will launch a paid code on their platform.
+But I didn't do it because I wanted to give it free.
+I had decided.
+I had posted it.
+Last moment,
+they have contacted me.
+They have given me a download code.
+If you want to make a web site,
+then you have to write it in the comment section.
+And you will have to agree.
+If you get a lot of code,
+then you will have a lot of code sellers.
+Because when you get the code from iPhone 15,
+16, 19 Pro Max,
+then you will get a blackberry.
+It will be paid blackberry.
+And I am telling you that I have put so much effort into it.
+I have put so much effort into it.
+I know that in the upcoming videos,
+you will also get to know.
+So, this is the state you have.
+You will get a lot of things in the upcoming videos.
+I am aware of the fact that we are taking a slow start.
+But remember something.
+We will raise the bar.
+So, please like this video and subscribe to the channel.
+Thank you so much guys for watching this video.
+And I will see you next time.
+Bye.
+Namaskar friends, today in this video I have brought you a very easy trick to multiply numbers.
+Suppose we have to multiply 54 by 36.
+So how do I calculate it?
+First of all, 5 into 3 is 15.
+4 into 6 will be 24.
+After that, 4 into 3 will be 12 and 5 into 6 will be 30.
+30 plus 12 is 42.
+We have to leave this 42 to 1.524 and add them.
+So we will get 144 and this is our answer.
+So you have seen how easy I have multiplied these numbers.
+It is possible that you will understand this thing at a time.
+But if you learn a trick once, then you will be able to perform any two digit multiplication easily.
+Let's take another example and understand this thing better.
+Suppose we have to multiply 43 by 24.
+So first of all, 4 into 2 will be 8.
+But instead of 8 we will write 0 to 8.
+Because here we always need a two digit number.
+Now 3 into 4 will be 12.
+So we will write 12 with it.
+Now after that, 3 into 2 will be 6 and 4 into 4 will be 16.
+And 16 will add 6 to 22.
+We will write this number to 1 digit and add it.
+So we will get 1032.
+And this will be our answer.
+Let's discuss one more example.
+Suppose we have to multiply with 97.
+So 7 times 9 will be 63 and 6 times 7 will be 42.
+Now 7 into 7 is equal to 49 and 6 into 9 is equal to 54.
+49 plus 54 is equal to 103.
+We will write this number to 1 digit and add it.
+So we will get 7372.
+And this will be our answer.
+I hope that you have understood this trick.
+So I will give you some questions that you will use this trick.
+And in the comment section, we will tell you our answer.
+If you liked our video, then like this video and give us your feedback.
+Thank you for watching.
+Namaskar friends, welcome to Vedic Mathematics's new video.
+Friends, if you want to divide any number from 9, then only one second of the Vedic Mathematics can be found in your answer.
+Dear friends, we have to divide 1,3,4,1 into 9.
+If you take it as a simple division, it will take you a lot of time.
+I will show you the answer in a few seconds.
+First, we will write the number in front of you, 1,3,4,1.
+The first digit of this number is the number of 1.
+After this, we will add the number of 1 to the next digit.
+So, how much is 1 plus 3?
+4.
+We will write the number of 4.
+Now, the number 4 is here.
+We have to add this number to the next digit.
+That is, with the number 4, how much is 4?
+8.
+Similarly, we have to add the number 8 to the next digit.
+So, how much is 8 plus 1?
+9.
+The number 9 is here in the last digit.
+We have to remove it.
+So, what will we get?
+1,4,8 and 1,4,8.
+We have to add 1 to the number 1.
+So, we will get 1,4,9.
+Friends, this is our answer.
+1,3,4,1.
+If you divide it from 9, then 1,4,9 will come.
+You can check.
+I will tell you another example.
+I will divide it from 9 to 3,2,1,2,1.
+So, what we have to do first?
+First, we have to write the number as usual.
+After that, we have to add this number to the next digit.
+So, how much is 3 plus 2?
+5.
+We have to write 5.
+If we add 5 to the next digit with the next digit,
+6.
+If we add 6 to the next digit,
+6 plus 2 to the next digit,
+8.
+If we add 1 to the next digit,
+9 to the next digit,
+9 to the last digit,
+we will get 3,5,6,8,
+and 3,5,6,8.
+If we add 1,
+then our answer will be 3,5,6,9.
+I am sure that you will understand this trick.
+I am giving you some questions for homework.
+The answer you will get from this trick.
+And in the comment section,
+we will tell you our answer.
+I am sure that all of you liked our video.
+Thank you for watching.
