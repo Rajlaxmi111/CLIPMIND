@@ -1,0 +1,9 @@
+So you're curious about Python, right? Well, I'd be happy to help!
+
+Python is a dynamically typed object-oriented programming language, which means it's easy to use and has a simple syntax. You can learn more about its features, such as its syntax, data types, and object-oriented programming concepts, in our first video.
+
+If you want to know when Python was developed, you can check out our first video again, starting from around 340 seconds (5 minutes) in. That's where we dive into its history and see how it all began.
+
+Also, if you're interested in learning how to use Python, our first video has got you covered! Starting from around 516 seconds (8.5 minutes) in, we explain the basics of getting started with Python and what you can do with it.
+
+Let me know if you have any more questions about Python or if there's anything else I can help you with.

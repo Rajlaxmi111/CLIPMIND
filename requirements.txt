@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+openai==1.51.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+joblib==1.4.2
+python-dotenv==1.0.1
+openai-whisper==20231117
+yt-dlp==2024.9.27
